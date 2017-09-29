@@ -41,7 +41,7 @@ This Repository contains Codes, Handouts, Videos and Slides for the Coursera's D
 - Course 1: Neural Networks and Deep Learning
 
   - [Week 1 Quiz - Introduction to deep learning](https://github.com/akhilesh-k/DeepLearning-AI-Specialization/blob/master/Quiz%20Solutions/W1-Quiz.md)
-  - [Week 2 Quiz - Neural Network Basics](https://github.com/akhilesh-k/DeepLearning-AI-Specialization)
+  - [Week 2 Quiz - Neural Network Basics](https://github.com/akhilesh-k/DeepLearning-AI-Specialization/blob/master/Quiz%20Solutions/W2-Quiz.pdf)
   - [Week 3 Quiz - Shallow Neural Networks](https://github.com/akhilesh-k/DeepLearning-AI-Specialization)
   - [Week 4 Quiz - Key concepts on Deep Neural Networks](https://github.com/akhilesh-k/DeepLearning-AI-Specialization)
 
